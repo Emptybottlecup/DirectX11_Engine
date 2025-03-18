@@ -90,7 +90,7 @@ void Katamari()
 
 int main()
 {
-    PongGame();
+    Katamari();
     return 0;
 }
 
