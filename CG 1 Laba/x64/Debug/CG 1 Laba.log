@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\Cpp\main.cpp(15,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\Cpp\main.cpp(87,169): warning C4305: 'argument': truncation from 'double' to 'float'
+  CG 1 Laba.vcxproj -> C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\x64\Debug\CG 1 Laba.exe

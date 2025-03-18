@@ -1,0 +1,12 @@
+C:\Users\dobr0\OneDrive\Desktop\CG\x64\Debug\xapobaseredist.pdb
+C:\Users\dobr0\OneDrive\Desktop\CG\x64\Debug\xaudio2_9redist.pdb
+C:\Users\dobr0\OneDrive\Desktop\CG\x64\Debug\xaudio2_9redist.dll
+C:\Users\dobr0\OneDrive\Desktop\CG\CG 1 Laba\x64\Debug\CG 1 Laba.vcxproj.Up2Date
+C:\Users\dobr0\OneDrive\Documents\GitHub\DirectX11\x64\Debug\xapobaseredist.pdb
+C:\Users\dobr0\OneDrive\Documents\GitHub\DirectX11\x64\Debug\xaudio2_9redist.pdb
+C:\Users\dobr0\OneDrive\Documents\GitHub\DirectX11\x64\Debug\xaudio2_9redist.dll
+C:\Users\dobr0\OneDrive\Documents\GitHub\DirectX11\CG 1 Laba\x64\Debug\CG 1 Laba.vcxproj.Up2Date
+C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\x64\Debug\xapobaseredist.pdb
+C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\x64\Debug\xaudio2_9redist.pdb
+C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\x64\Debug\xaudio2_9redist.dll
+C:\Users\USER\OneDrive\Рабочий стол\ЛАБЫ КГ\CG 1 Laba\x64\Debug\CG 1 Laba.vcxproj.Up2Date

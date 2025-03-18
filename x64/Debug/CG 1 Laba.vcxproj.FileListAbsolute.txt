@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\DirectX11\x64\Debug\CG 1 Laba.vcxproj.CopyComplete
+C:\Users\USER\Desktop\DirectX11\x64\Debug\CG 1 Laba.exe
+C:\Users\USER\Desktop\DirectX11\x64\Debug\xapobaseredist.pdb
+C:\Users\USER\Desktop\DirectX11\x64\Debug\xaudio2_9redist.pdb
+C:\Users\USER\Desktop\DirectX11\x64\Debug\xaudio2_9redist.dll
+C:\Users\USER\Desktop\DirectX11 — копия\x64\Debug\CG 1 Laba.vcxproj.CopyComplete
+C:\Users\USER\Desktop\DirectX11 — копия\x64\Debug\CG 1 Laba.exe
+C:\Users\USER\Desktop\DirectX11 — копия\x64\Debug\xapobaseredist.pdb
+C:\Users\USER\Desktop\DirectX11 — копия\x64\Debug\xaudio2_9redist.pdb
+C:\Users\USER\Desktop\DirectX11 — копия\x64\Debug\xaudio2_9redist.dll
+C:\Users\USER\Desktop\ЛАБЫ КГ\x64\Debug\CG 1 Laba.vcxproj.CopyComplete
+C:\Users\USER\Desktop\ЛАБЫ КГ\x64\Debug\CG 1 Laba.exe
+C:\Users\USER\Desktop\ЛАБЫ КГ\x64\Debug\xapobaseredist.pdb
+C:\Users\USER\Desktop\ЛАБЫ КГ\x64\Debug\xaudio2_9redist.pdb
+C:\Users\USER\Desktop\ЛАБЫ КГ\x64\Debug\xaudio2_9redist.dll
+C:\Users\USER\Documents\ЛАБЫ КГ\x64\Debug\CG 1 Laba.vcxproj.CopyComplete
+C:\Users\USER\Documents\ЛАБЫ КГ\x64\Debug\CG 1 Laba.exe
+C:\Users\USER\Documents\ЛАБЫ КГ\x64\Debug\xapobaseredist.pdb
+C:\Users\USER\Documents\ЛАБЫ КГ\x64\Debug\xaudio2_9redist.pdb
+C:\Users\USER\Documents\ЛАБЫ КГ\x64\Debug\xaudio2_9redist.dll
